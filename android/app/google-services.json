@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037286865667",
+    "project_id": "atelier4-a-nejmeddine-iir5g7",
+    "storage_bucket": "atelier4-a-nejmeddine-iir5g7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037286865667:android:1b8394c9e34a61d1124736",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_a_nejmeddine_iir5g7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo2NEQCm0Qrz3rXYv-AYclXwwUnEGzS8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
